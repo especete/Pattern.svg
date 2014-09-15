@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" inkscape:version="0.91pre2 r13516" sodipodi:docname="double G overlay.svg" id="svgEmpty" height="100" width="100" inkscape:export-filename="D:\_\_1.2.0\the\system\software\beta\pattern\1.0.6\test\double G overlay.png" inkscape:export-xdpi="180" inkscape:export-ydpi="180">
+  <sodipodi:namedview id="internalSetup" pagecolor="#fffffe" bordercolor="#515045" borderopacity="0.14" inkscape:current-layer="layerdraw1" inkscape:document-units="px" inkscape:pageopacity="0.0" inkscape:pageshadow="0" inkscape:zoom="2.0340119" inkscape:cx="156.2483" inkscape:cy="42.387558" inkscape:window-width="1280" inkscape:window-height="777" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:window-maximized="1" showgrid="false" inkscape:showpageshadow="false" />
+  <metadata id="fileMetadata">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:title />
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="reuseDef">
+    <pattern inkscape:collect="always" xlink:href="#pattern9322" id="pattern9525" patternTransform="matrix(0.25,0,0,0.25,0,-100)" />
+    <clipPath id="CLIPDRAW" clipPathUnits="userSpaceOnUse">
+      <rect id="clipper" y="0" x="200" height="100" width="100" style="display:inline;overflow:visible;visibility:visible;opacity:1;fill:#545045;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:accumulate" />
+    </clipPath>
+    <symbol id="DRAWREGULAR">
+      <use id="symdraw1" xlink:href="#DRAWING" x="0" y="0" height="100%" width="100%" transform="translate(-200,0)" style="display:inline" />
+    </symbol>
+    <symbol id="DRAWFH">
+      <use id="symdraw2" xlink:href="#DRAWING" x="0" y="0" height="100%" width="100%" transform="matrix(-1,0,0,1,300,0)" style="display:inline" />
+    </symbol>
+    <symbol id="DRAWFV">
+      <use id="symdraw3" xlink:href="#DRAWING" x="0" y="0" height="100%" width="100%" transform="matrix(1,0,0,-1,-200,100)" style="display:inline" />
+    </symbol>
+    <symbol id="DRAWFHV">
+      <use id="symdraw4" xlink:href="#DRAWING" x="0" y="0" height="100%" width="100%" transform="matrix(-1,0,0,-1,300,100)" style="display:inline" />
+    </symbol>
+    <symbol id="DRAWR90">
+      <use id="symdraw5" xlink:href="#DRAWING" x="0" y="0" height="100%" width="100%" transform="matrix(0,1,-1,0,100,-200)" style="display:inline" />
+    </symbol>
+    <symbol id="DRAWR90FH">
+      <use id="symdraw6" xlink:href="#DRAWING" x="0" y="0" height="100%" width="100%" transform="matrix(0,1,1,0,0,-200)" style="display:inline" />
+    </symbol>
+    <symbol id="DRAWR90FV">
+      <use id="symdraw7" xlink:href="#DRAWING" x="0" y="0" height="100%" width="100%" transform="matrix(0,-1,-1,0,100,300)" style="display:inline" />
+    </symbol>
+    <symbol id="DRAWR180">
+      <use id="symdraw8" xlink:href="#DRAWING" x="0" y="0" height="100%" width="100%" transform="matrix(-1,0,0,-1,300,100)" style="display:inline" />
+    </symbol>
+    <symbol id="DRAWR270">
+      <use id="symdraw9" xlink:href="#DRAWING" x="0" y="0" height="100%" width="100%" transform="matrix(0,-1,1,0,0,300)" style="display:inline" />
+    </symbol>
+    <pattern id="PATP1" patternUnits="userSpaceOnUse" width="100" height="100" patternTransform="matrix(0.25,0,0,0.25,0,0)">
+      <use id="p1sym1" xlink:href="#DRAWR180" x="0" y="0" width="100%" height="100%" />
+      <use id="use29" xlink:href="#DRAWR270" x="0" y="0" width="100%" height="100%" />
+    </pattern>
+  </defs>
+  <g id="BACKGROUND" inkscape:label="Background" inkscape:groupmode="layer" sodipodi:insensitive="true">
+    <rect id="backgrounder" x="-110" y="-110" height="320" width="520" style="display:inline;overflow:visible;visibility:visible;opacity:1;fill:#735e7c;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:accumulate" />
+  </g>
+  <g id="layerpattern" inkscape:label="Pattern" inkscape:groupmode="layer" style="display:inline" sodipodi:insensitive="true">
+    <g id="layerpatternp1" inkscape:label="P1" inkscape:groupmode="layer" style="display:inline" sodipodi:insensitive="true">
+      <rect id="p1preview" style="fill:url(#PATP1);stroke:none" x="-100" y="-100" height="300" width="500" />
+    </g>
+    <use id="bckdoubler" xlink:href="#BACKGROUND" x="0" y="0" height="100%" width="100%" clip-path="url(#CLIPDRAW)" sodipodi:insensitive="true" style="display:inline" />
+  </g>
+  <g id="DRAWING" inkscape:label="Draw" inkscape:groupmode="layer" style="display:inline" clip-path="url(#CLIPDRAW)">
+    <g id="layerdraw1" inkscape:label="Draw 1" inkscape:groupmode="layer" style="display:inline">
+      <path id="path" inkscape:connector-curvature="0" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#f5ee74;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" transform="translate(200,0)" d="m 65.136719,28.363037 1.068115,13.061524 -1.068115,0 q -1.617432,-4.882813 -4.180908,-7.354737 -3.692627,-3.570556 -9.490967,-3.570556 -7.904053,0 -12.023926,6.256103 -3.448486,5.279541 -3.448486,12.573242 0,5.92041 2.288818,10.803223 2.288818,4.882812 5.981445,7.171631 3.723145,2.258301 7.629395,2.258301 2.288818,0 4.425049,-0.579834 2.13623,-0.579834 4.119873,-1.708985 l 0,-11.96289 q 0,-3.112793 -0.488282,-4.058838 -0.457763,-0.976563 -1.464843,-1.464844 -0.976563,-0.518799 -3.479004,-0.518799 l 0,-1.159668 16.021728,0 0,1.159668 -0.762939,0 q -2.380371,0 -3.265381,1.586914 -0.610352,1.129151 -0.610352,4.455567 l 0,12.664795 q -3.509521,1.892089 -6.92749,2.777099 -3.417969,0.88501 -7.598877,0.88501 -11.993408,0 -18.218994,-7.69043 -4.669189,-5.767822 -4.669189,-13.305664 0,-5.462646 2.624511,-10.467529 3.112793,-5.950928 8.544922,-9.155274 4.547119,-2.655029 10.742188,-2.655029 2.258301,0 4.089355,0.366211 1.861572,0.366211 5.249024,1.617432 1.708984,0.640869 2.288818,0.640869 0.579834,0 0.976563,-0.518799 0.427246,-0.549316 0.518798,-2.105713 l 1.129151,0 z" />
+      <path style="color:black;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#f5ee74;fill-opacity:0.64044946;fill-rule:nonzero;stroke:none;stroke-width:25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" id="path15016" d="m 249.10182,40.935698 c 0.28376,0.806023 0.36175,1.666366 0.46024,2.51011 0.11812,1.492041 0.20915,2.985839 0.31826,4.478549 0.19773,1.721657 0.36836,3.443682 0.44308,5.175254 0.0544,1.235425 0.11834,2.470371 0.1727,3.705877 0.0503,0.945222 0.0343,1.888096 -0.0326,2.831303 -0.0664,0.465457 -0.0553,0.978485 -0.42196,1.317035 -0.69034,-0.01382 -0.74237,0.156951 -0.50488,-0.178657 -0.0126,-0.06958 0.0858,-0.08741 0.0984,-0.01784 l 0,0 c 0.31003,0.170457 0.18356,0.0652 -0.46313,0.170787 -0.3352,-0.230266 -0.10057,-0.841684 -0.1452,-1.170585 0.0399,-0.904778 0.02,-1.811753 -0.008,-2.716713 -0.0404,-1.236554 -0.13463,-2.470224 -0.17778,-3.706694 -0.0537,-1.73905 0.005,-3.477404 -0.0337,-5.216653 -0.0835,-1.488472 -0.16951,-2.976955 -0.28551,-4.463284 -0.0541,-0.849941 -0.14299,-1.702646 -0.0897,-2.55462 -0.11588,-0.473325 0.55351,-0.637196 0.66938,-0.163871 z" inkscape:connector-curvature="0" />
+    </g>
+    <g inkscape:groupmode="layer" id="layer2" inkscape:label="Draw 3">
+      <path style="color:black;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:black;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:black;solid-opacity:1;fill:#f5ee74;fill-opacity:0.23033708;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" d="m 239.81641,8.3378906 0,16.5097654 -29.49805,0.1875 0,0.498047 0,20.78125 11.58984,0 0,36.664063 38.89453,0 0,9.201172 11.38868,0 0,-24.50586 11.59765,0 0,-20.048828 -7.68945,0 0,-29.341797 -11.33008,0 0,-9.9453124 -24.95312,0 z m 1,1 22.95312,0 0,9.9453124 11.33008,0 0,29.341797 7.68945,0 0,18.048828 -11.59765,0 0,24.50586 -9.38868,0 0,-9.201172 -38.89453,0 0,-36.664063 -11.58984,0 0,-19.285156 29.49805,-0.1875 0,-16.5039064 z" id="path22896" inkscape:connector-curvature="0" />
+    </g>
+    <g inkscape:groupmode="layer" id="layer3" inkscape:label="Draw 4">
+      <path style="color:black;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:black;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:black;solid-opacity:1;fill:#f5ee74;fill-opacity:0.31460676;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" d="m 247.04492,-3.1308594 0,111.3222694 0.5,0 0,-111.3222694 -0.5,0 z" id="path23799" inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>

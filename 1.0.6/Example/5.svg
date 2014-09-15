@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" inkscape:version="0.91pre2 r13516" sodipodi:docname="9.svg" id="svgEmpty" height="100" width="100">
+  <sodipodi:namedview id="internalSetup" pagecolor="#fffffe" bordercolor="#515045" borderopacity="0.14" inkscape:current-layer="layer1" inkscape:document-units="px" inkscape:pageopacity="0.0" inkscape:pageshadow="0" inkscape:zoom="1.645" inkscape:cx="233.44541" inkscape:cy="34.627653" inkscape:window-width="1280" inkscape:window-height="777" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:window-maximized="1" showgrid="false" inkscape:showpageshadow="false" />
+  <metadata id="fileMetadata">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:title />
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="reuseDef">
+    <clipPath id="CLIPDRAW" clipPathUnits="userSpaceOnUse">
+      <rect id="clipper" y="0" x="200" height="100" width="100" style="display:inline;overflow:visible;visibility:visible;opacity:1;fill:#545045;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:accumulate" />
+    </clipPath>
+    <symbol id="DRAWREGULAR">
+      <use id="symdraw1" xlink:href="#DRAWING" x="0" y="0" height="100%" width="100%" transform="translate(-200,0)" style="display:inline" />
+    </symbol>
+    <symbol id="DRAWFH">
+      <use id="symdraw2" xlink:href="#DRAWING" x="0" y="0" height="100%" width="100%" transform="matrix(-1,0,0,1,300,0)" style="display:inline" />
+    </symbol>
+    <symbol id="DRAWFV">
+      <use id="symdraw3" xlink:href="#DRAWING" x="0" y="0" height="100%" width="100%" transform="matrix(1,0,0,-1,-200,100)" style="display:inline" />
+    </symbol>
+    <symbol id="DRAWFHV">
+      <use id="symdraw4" xlink:href="#DRAWING" x="0" y="0" height="100%" width="100%" transform="matrix(-1,0,0,-1,300,100)" style="display:inline" />
+    </symbol>
+    <symbol id="DRAWR90">
+      <use id="symdraw5" xlink:href="#DRAWING" x="0" y="0" height="100%" width="100%" transform="matrix(0,1,-1,0,100,-200)" style="display:inline" />
+    </symbol>
+    <symbol id="DRAWR90FH">
+      <use id="symdraw6" xlink:href="#DRAWING" x="0" y="0" height="100%" width="100%" transform="matrix(0,1,1,0,0,-200)" style="display:inline" />
+    </symbol>
+    <symbol id="DRAWR90FV">
+      <use id="symdraw7" xlink:href="#DRAWING" x="0" y="0" height="100%" width="100%" transform="matrix(0,-1,-1,0,100,300)" style="display:inline" />
+    </symbol>
+    <symbol id="DRAWR180">
+      <use id="symdraw8" xlink:href="#DRAWING" x="0" y="0" height="100%" width="100%" transform="matrix(-1,0,0,-1,300,100)" style="display:inline" />
+    </symbol>
+    <symbol id="DRAWR270">
+      <use id="symdraw9" xlink:href="#DRAWING" x="0" y="0" height="100%" width="100%" transform="matrix(0,-1,1,0,0,300)" style="display:inline" />
+    </symbol>
+    <!-- CMM, P4M, PM. -->
+    <pattern id="PATCM" patternUnits="userSpaceOnUse" width="200" height="200" patternTransform="matrix(0.25,0,0,0.25,0,0)">
+      <use id="cmsym1" xlink:href="#DRAWFH" x="0" y="0" width="100%" height="100%" />
+      <use id="cmsym2" xlink:href="#DRAWREGULAR" x="100" y="0" width="100%" height="100%" />
+      <use id="cmsym3" xlink:href="#DRAWREGULAR" x="0" y="100" width="100%" height="100%" />
+      <use id="cmsym4" xlink:href="#DRAWFH" x="100" y="100" width="100%" height="100%" />
+    </pattern>
+    <pattern id="PATP1" patternUnits="userSpaceOnUse" width="100" height="100" patternTransform="matrix(0.25,0,0,0.25,0,0)">
+      <use id="p1sym1" xlink:href="#DRAWREGULAR" x="0" y="0" width="100%" height="100%" />
+    </pattern>
+    <pattern id="PATP2" patternUnits="userSpaceOnUse" width="200" height="100" patternTransform="matrix(0.25,0,0,0.25,0,0)">
+      <use id="p2sym1" xlink:href="#DRAWREGULAR" x="0" y="0" width="100%" height="100%" />
+      <use id="p2sym2" xlink:href="#DRAWR180" x="100" y="0" width="100%" height="100%" />
+    </pattern>
+    <pattern id="PATP4" patternUnits="userSpaceOnUse" width="200" height="200" patternTransform="matrix(0.25,0,0,0.25,0,0)">
+      <use id="p4sym1" xlink:href="#DRAWR270" x="0" y="0" width="100%" height="100%" />
+      <use id="p4sym2" xlink:href="#DRAWR90FV" x="100" y="0" width="100%" height="100%" />
+      <use id="p4sym3" xlink:href="#DRAWFH" x="0" y="100" width="100%" height="100%" />
+      <use id="p4sym4" xlink:href="#DRAWREGULAR" x="100" y="100" width="100%" height="100%" />
+    </pattern>
+    <pattern id="PATP4G" patternUnits="userSpaceOnUse" width="200" height="200" patternTransform="matrix(0.25,0,0,0.25,0,0)">
+      <use id="p4gsym1" xlink:href="#DRAWFV" x="0" y="0" width="100%" height="100%" />
+      <use id="p4gsym2" xlink:href="#DRAWR90FV" x="100" y="0" width="100%" height="100%" />
+      <use id="p4gsym3" xlink:href="#DRAWR90FH" x="0" y="100" width="100%" height="100%" />
+      <use id="p4gsym4" xlink:href="#DRAWFH" x="100" y="100" width="100%" height="100%" />
+    </pattern>
+    <pattern id="PATPG" patternUnits="userSpaceOnUse" width="100" height="200" patternTransform="matrix(0.25,0,0,0.25,0,0)">
+      <use id="pgsym1" xlink:href="#DRAWFH" x="0" y="0" width="100%" height="100%" />
+      <use id="pgsym2" xlink:href="#DRAWREGULAR" x="0" y="100" width="100%" height="100%" />
+    </pattern>
+    <pattern id="PATPGG" patternUnits="userSpaceOnUse" width="200" height="200" patternTransform="matrix(0.25,0,0,0.25,0,0)">
+      <use id="pggsym1" xlink:href="#DRAWFHV" x="0" y="0" width="100%" height="100%" />
+      <use id="pggsym2" xlink:href="#DRAWFH" x="100" y="0" width="100%" height="100%" />
+      <use id="pggsym3" xlink:href="#DRAWREGULAR" x="0" y="100" width="100%" height="100%" />
+      <use id="pggsym4" xlink:href="#DRAWFV" x="100" y="100" width="100%" height="100%" />
+    </pattern>
+    <pattern id="PATPMG" patternUnits="userSpaceOnUse" width="200" height="200" patternTransform="matrix(0.25,0,0,0.25,0,0)">
+      <use id="pmgsym1" xlink:href="#DRAWR270" x="0" y="0" width="100%" height="100%" />
+      <use id="pmgsym2" xlink:href="#DRAWR180" x="100" y="0" width="100%" height="100%" />
+      <use id="pmgsym3" xlink:href="#DRAWREGULAR" x="0" y="100" width="100%" height="100%" />
+      <use id="pmgsym4" xlink:href="#DRAWR90" x="100" y="100" width="100%" height="100%" />
+    </pattern>
+    <pattern id="PATPMM" patternUnits="userSpaceOnUse" width="200" height="200" patternTransform="matrix(0.25,0,0,0.25,0,0)">
+      <use id="pmmsym1" xlink:href="#DRAWFV" x="0" y="0" width="100%" height="100%" />
+      <use id="pmmsym2" xlink:href="#DRAWR180" x="100" y="0" width="100%" height="100%" />
+      <use id="pmmsym3" xlink:href="#DRAWREGULAR" x="0" y="100" width="100%" height="100%" />
+      <use id="pmmsym4" xlink:href="#DRAWFH" x="100" y="100" width="100%" height="100%" />
+    </pattern>
+  </defs>
+  <g id="BACKGROUND" inkscape:label="Background" inkscape:groupmode="layer" sodipodi:insensitive="true">
+    <rect id="backgrounder" x="-110" y="-110" height="320" width="520" style="display:inline;overflow:visible;visibility:visible;opacity:1;fill:#b1c7cf;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:accumulate" />
+  </g>
+  <g id="layerpattern" inkscape:label="Pattern" inkscape:groupmode="layer" style="display:inline" sodipodi:insensitive="true">
+    <g id="layerpatternpmm" inkscape:label="PMM" inkscape:groupmode="layer" style="display:none" sodipodi:insensitive="true">
+      <rect id="pmmpreview" style="fill:url(#PATPMM);stroke:none" x="-100" y="-100" height="300" width="500" />
+    </g>
+    <g id="layerpatternpmg" inkscape:label="PMG" inkscape:groupmode="layer" style="display:none" sodipodi:insensitive="true">
+      <rect id="pmgpreview" style="fill:url(#PATPMG);stroke:none" x="-100" y="-100" height="300" width="500" />
+    </g>
+    <g id="layerpatternpgg" inkscape:label="PGG" inkscape:groupmode="layer" style="display:inline" sodipodi:insensitive="true">
+      <rect id="pggpreview" style="fill:url(#PATPGG);stroke:none" x="-100" y="-100" height="300" width="500" />
+    </g>
+    <g id="layerpatternpg" inkscape:label="PG" inkscape:groupmode="layer" style="display:none" sodipodi:insensitive="true">
+      <rect id="pgpreview" style="fill:url(#PATPG);stroke:none" x="-100" y="-100" height="300" width="500" />
+    </g>
+    <g id="layerpatternp4g" inkscape:label="P4G" inkscape:groupmode="layer" style="display:none" sodipodi:insensitive="true">
+      <rect id="p4gpreview" style="fill:url(#PATP4G);stroke:none" x="-100" y="-100" height="300" width="500" />
+    </g>
+    <g id="layerpatternp4" inkscape:label="P4" inkscape:groupmode="layer" style="display:none" sodipodi:insensitive="true">
+      <rect id="p4preview" style="fill:url(#PATP4);stroke:none" x="-100" y="-100" height="300" width="500" />
+    </g>
+    <g id="layerpatternp2" inkscape:label="P2" inkscape:groupmode="layer" style="display:none" sodipodi:insensitive="true">
+      <rect id="p2preview" style="fill:url(#PATP2);stroke:none" x="-100" y="-100" height="300" width="500" />
+    </g>
+    <g id="layerpatternp1" inkscape:label="P1" inkscape:groupmode="layer" style="display:none" sodipodi:insensitive="true">
+      <rect id="p1preview" style="fill:url(#PATP1);stroke:none" x="-100" y="-100" height="300" width="500" />
+    </g>
+    <g id="layerpatterncm" inkscape:label="CM" inkscape:groupmode="layer" style="display:none" sodipodi:insensitive="true">
+      <rect id="cmpreview" style="fill:url(#PATCM);stroke:none" x="-100" y="-100" height="300" width="500" />
+    </g>
+    <use id="bckdoubler" xlink:href="#BACKGROUND" x="0" y="0" height="100%" width="100%" clip-path="url(#CLIPDRAW)" sodipodi:insensitive="true" style="display:inline" />
+  </g>
+  <g id="DRAWING" inkscape:label="Draw" inkscape:groupmode="layer" style="display:inline" clip-path="url(#CLIPDRAW)">
+    <g inkscape:groupmode="layer" id="layer1" inkscape:label="Draw 2">
+      <path style="fill:#eff2f2;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1" d="m 218.53634,19.151096 2.23193,7.199296 2.58057,11.546041 1.21579,8.238735 0.0209,2.164514 2.25576,-3.487436 5.61111,-6.396093 8.38239,-7.155002 7.28579,-4.74244 6.40375,-3.499248 5.86738,-2.81121 -3.20933,-0.304154 -7.64636,-0.791391 -6.63618,-0.0945 -7.05635,0.549249 -9.58327,-0.121071 -7.60763,0.112212 z" id="path14759" inkscape:connector-curvature="0" />
+      <path style="fill:#dce480;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1" d="m 265.4325,58.185715 -3.91549,2.774414 -2.71414,3.710524 -1.24584,5.630228 0.71533,5.569178 3.12144,4.928145 5.88349,1.85187 6.2463,-1.895962 5.88349,-5.592919 3.10775,-7.658467 -0.99256,-5.538653 -3.86415,-2.876164 -5.28796,-0.624074 -3.61087,-1.207446 z" id="path15445" inkscape:connector-curvature="0" />
+    </g>
+    <g id="layerdraw1" inkscape:label="Draw 1" inkscape:groupmode="layer" style="display:inline" sodipodi:insensitive="true">
+      <path style="color:black;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#21261f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.12359553;marker:none;enable-background:accumulate" id="path11666" d="m 218.31326,18.180192 c 0.67261,0.906339 0.99358,2.015076 1.33538,3.076127 0.50936,1.759622 0.95784,3.53587 1.38642,5.316708 0.44427,1.80098 0.85882,3.609031 1.29481,5.412027 0.45963,1.675919 0.87758,3.362208 1.26383,5.056474 0.36089,1.60027 0.70536,3.204464 0.97088,4.823521 0.25067,1.416888 0.36929,2.849826 0.4202,4.286319 0.0156,1.112669 -0.0597,2.221021 -0.16643,3.327677 -0.028,0.322603 -0.0763,0.644331 -0.10029,0.967299 -0.0142,0.190925 0.009,0.26796 -0.009,0.252544 -0.0293,-0.02481 -0.0206,-0.07403 -0.031,-0.11104 -0.28672,-7.3e-5 -0.58207,0.06963 -0.86015,-2.2e-4 -0.024,-0.006 0.47764,-1.504076 0.50589,-1.589449 0.3674,-1.078322 0.87549,-2.098277 1.42443,-3.093643 0.86004,-1.537257 1.90852,-2.954664 3.00432,-4.329441 1.45181,-1.762186 3.1046,-3.343212 4.76806,-4.901933 1.82156,-1.720793 3.77174,-3.29335 5.77903,-4.790166 1.98616,-1.492512 4.0395,-2.890187 6.104,-4.270898 1.8464,-1.237879 3.74765,-2.382681 5.6965,-3.450257 1.40832,-0.749139 2.8561,-1.420663 4.3288,-2.032545 0.99573,-0.416157 2.02929,-0.732865 3.03085,-1.133225 0.54372,-0.232493 1.0562,-0.53221 1.55398,-0.849836 -0.0495,0.02892 -0.0982,0.05928 -0.14845,0.08675 -0.0687,0.0375 0.13419,-0.08092 0.19718,-0.127332 0.0274,-0.02019 0.0847,-0.09574 0.0812,-0.06188 -0.003,0.02495 -0.022,0.04508 -0.033,0.06762 -0.12015,0.447019 0.38572,0.606922 -0.12015,0.492482 -0.53365,-0.140689 -1.09051,-0.168405 -1.6388,-0.209634 -1.20661,-0.09141 -2.41656,-0.117772 -3.6246,-0.182026 -1.87936,-0.0842 -3.75231,-0.263408 -5.63056,-0.368478 -2.50851,-0.154076 -5.02104,-0.137833 -7.5311,-0.04448 -2.81987,0.147903 -5.63576,0.35425 -8.45749,0.46649 -2.61723,0.09781 -5.23377,-0.01204 -7.84645,-0.159525 -2.05497,-0.135708 -4.1122,-0.241118 -6.17152,-0.273639 -1.37571,-0.03607 -2.74399,0.10471 -4.10815,0.261075 -0.31414,-0.006 -0.81796,0.146488 -1.09375,-0.103904 -0.0845,-0.07672 -0.11678,-0.196117 -0.17517,-0.294176 -0.0703,-0.0078 -0.0592,-0.107198 0.0111,-0.09939 l 0,0 c 0.0795,-0.120117 0.13928,-0.25593 0.23849,-0.360352 0.30468,-0.320654 0.79014,-0.382408 1.19046,-0.490116 1.41651,-0.230401 2.84964,-0.310271 4.28459,-0.282235 2.07101,0.05189 4.13936,0.159854 6.20702,0.288221 2.57981,0.141088 5.16423,0.241735 7.74787,0.140444 2.81244,-0.09735 5.62294,-0.242522 8.43615,-0.316145 2.53496,-0.04403 5.07241,-0.06471 7.60376,0.108123 1.8697,0.133654 3.73747,0.291322 5.6049,0.452641 1.20481,0.08614 2.40836,0.18785 3.61343,0.270461 0.58934,0.04955 1.17623,0.115676 1.75053,0.261316 0.41146,0.103276 0.75258,0.282898 0.65429,0.790799 -0.18008,0.305276 -0.58899,0.426384 -0.85271,0.635986 -0.54168,0.330624 -1.0934,0.64477 -1.69033,0.867045 -1.00212,0.38444 -2.02621,0.708596 -3.0134,1.132115 -1.44739,0.611078 -2.87662,1.263993 -4.25314,2.024044 -1.7349,0.939697 -3.42627,1.958635 -5.06082,3.064333 -2.06724,1.354407 -4.11564,2.74041 -6.09413,4.222429 -1.96498,1.50012 -3.91223,3.027375 -5.69145,4.748855 -1.63451,1.53647 -3.2772,3.073867 -4.70315,4.811579 -1.08235,1.338406 -2.10828,2.72243 -2.99162,4.202264 -0.55197,0.946041 -1.06767,1.913481 -1.42122,2.954154 -0.16194,0.446335 -0.30404,0.899371 -0.44009,1.354355 -0.023,0.07682 0.006,0.194162 -0.0653,0.231486 -0.29951,0.157538 -0.64426,0.207455 -0.96638,0.311182 -0.16369,-0.476307 0.0102,-0.996208 0.0158,-1.486736 0.10521,-1.073356 0.21532,-2.151386 0.17634,-3.231435 -0.0336,-1.403021 -0.14477,-2.80363 -0.37512,-4.189161 -0.28104,-1.601911 -0.59118,-3.19817 -0.96871,-4.78053 -0.38607,-1.695044 -0.76144,-3.392354 -1.12642,-5.092008 -0.42612,-1.803994 -0.84501,-3.609856 -1.28887,-5.40952 -0.44338,-1.764569 -0.85665,-3.538219 -1.36987,-5.284154 -0.29909,-1.025135 -0.6093,-2.050102 -1.09681,-3.005036 -0.25484,-0.378381 0.28027,-0.738781 0.53511,-0.3604 z" inkscape:connector-curvature="0" />
+      <path style="color:black;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#21261f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.12359553;marker:none;enable-background:accumulate" id="path11704" d="m 222.91404,20.741461 c 0.3395,0.778369 0.60847,1.58816 0.83755,2.405271 0.26071,1.007206 0.52015,2.014289 0.75519,3.028156 0.29262,1.206852 0.59636,2.409678 0.88754,3.617118 0.33427,1.16707 0.68595,2.328321 1.03308,3.491673 0.29661,1.042183 0.57329,2.091041 0.81336,3.147637 0.18842,0.86435 0.38709,1.725705 0.55517,2.594452 0.15271,0.82525 0.25829,1.656573 0.37498,2.487042 0.0469,0.600374 0.0975,1.220027 -0.13218,1.785747 0.0263,0.142749 -0.17557,0.179962 -0.20188,0.03721 l 0,0 c -0.3165,-0.483202 -0.35738,-1.085777 -0.4527,-1.645817 -0.0834,-0.818614 -0.23598,-1.630915 -0.37842,-2.440999 -0.16601,-0.862123 -0.3358,-1.723969 -0.5353,-2.579 -0.23849,-1.050636 -0.45048,-2.107529 -0.73142,-3.148653 -0.28938,-1.184395 -0.60763,-2.360727 -0.89165,-3.546383 -0.32907,-1.198846 -0.5973,-2.411268 -0.89785,-3.617137 -0.26871,-1.000836 -0.51868,-2.005828 -0.78424,-3.00728 -0.217,-0.810196 -0.43236,-1.619839 -0.68594,-2.419862 -0.13377,-0.307391 0.30094,-0.496569 0.43471,-0.189178 z" inkscape:connector-curvature="0" />
+      <path style="color:black;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#21261f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.12359553;marker:none;enable-background:accumulate" id="path11742" d="m 245.58618,23.394583 c -0.3177,0.149334 -0.71966,0.218487 -0.99712,0.44722 -0.0394,0.03252 0.14303,-0.110529 0.14137,-0.05944 -0.002,0.06049 -0.0954,0.07454 -0.14307,0.111803 -0.18344,0.163213 -0.31566,0.372627 -0.26708,0.623215 0.13998,0.190178 0.43236,0.19796 0.6468,0.21167 0.44569,-0.0071 0.86007,-0.158769 1.26405,-0.332065 0.16492,-0.08651 0.34693,-0.181925 0.59974,-0.498356 0.046,-0.110623 0.18646,-0.308026 0.0528,-0.407372 -0.20199,-0.06671 -0.41609,-0.06524 -0.62038,-0.12298 -0.1715,-0.10083 -0.32809,-0.204366 -0.47787,-0.335101 -0.068,-0.01937 -0.0406,-0.115542 0.0274,-0.09618 l 0,0 c 0.21418,-0.107434 0.43064,-0.196179 0.65835,-0.271773 0.40125,-0.0354 0.79219,0.06226 1.07465,0.365678 0.22853,0.355829 0.23285,0.72682 0.022,1.098258 -0.27703,0.532204 -0.69207,0.903442 -1.24497,1.162442 -0.52192,0.257825 -1.08098,0.443839 -1.67122,0.393622 -0.56501,-0.08054 -1.06735,-0.272683 -1.30681,-0.832974 -0.1581,-0.543397 -0.0369,-1.041641 0.32534,-1.480968 0.5328,-0.520362 1.23379,-0.808876 1.95048,-0.973173 0.70461,0.02442 0.67008,1.020886 -0.0345,0.996469 z" inkscape:connector-curvature="0" />
+      <path style="color:black;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#21261f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.12359553;marker:none;enable-background:accumulate" id="path11780" d="m 224.40728,50.581738 c 0.0262,0.805323 0.0125,1.610963 0.001,2.41649 0.0225,1.273008 0.26433,2.521869 0.56284,3.754798 0.44243,2.085605 1.24829,4.064274 2.1169,6.002796 0.78475,2.004083 1.89834,3.847277 2.8705,5.758418 0.0982,0.259137 0.19646,0.518275 0.29469,0.777413 0.0797,0.117194 -0.0861,0.229832 -0.16574,0.112638 l 0,0 c -0.21399,-0.189115 -0.42797,-0.378231 -0.64196,-0.567346 -0.18738,-0.245455 -0.39045,-0.479692 -0.56215,-0.736367 -1.03871,-1.552809 -1.7229,-3.320262 -2.54534,-4.987145 -0.84318,-1.989574 -1.70642,-3.976554 -2.29719,-6.060258 -0.31478,-1.289576 -0.63435,-2.592475 -0.60213,-3.93058 -0.009,-0.840733 0.0412,-1.68243 0.23113,-2.504291 -0.0259,-0.521222 0.71126,-0.557788 0.73712,-0.03657 z" inkscape:connector-curvature="0" />
+      <path style="color:black;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#21261f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.12359553;marker:none;enable-background:accumulate" id="path11818" d="m 231.74808,43.279347 c -0.51431,0.510323 -1.0109,1.034278 -1.47038,1.594634 -0.59486,0.758069 -1.07262,1.594796 -1.54321,2.432624 -0.60105,1.125197 -0.99311,2.337231 -1.25842,3.580503 -0.27762,1.295581 -0.41208,2.622132 -0.43698,3.945926 0.013,1.078717 0.14175,2.15793 0.39467,3.206666 0.13826,0.421243 0.27525,0.824931 0.30218,1.268572 0.0365,0.06059 -0.0492,0.11215 -0.0857,0.05156 l 0,0 c -0.46914,-0.312723 -0.59086,-0.60574 -0.74994,-1.143047 -0.28881,-1.078565 -0.43591,-2.178864 -0.48545,-3.294991 -0.07,-1.36733 -0.0304,-2.724888 0.27012,-4.068198 0.30608,-1.290386 0.64425,-2.57684 1.29775,-3.743984 0.46685,-0.879744 0.98824,-1.732822 1.58641,-2.530229 0.46402,-0.584779 0.97588,-1.124054 1.51723,-1.637778 0.23881,-0.467895 0.90052,-0.130158 0.6617,0.337738 z" inkscape:connector-curvature="0" />
+      <path style="color:black;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#21261f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.12359553;marker:none;enable-background:accumulate" id="path13440" d="m 273.19248,58.77138 c -1.13224,-0.54179 -2.33484,-0.796448 -3.57526,-0.917343 -1.82747,-0.05307 -3.49418,0.620204 -5.0822,1.451253 -1.81658,1.039047 -3.22062,2.584954 -4.42735,4.267289 -1.14943,1.779761 -1.87548,3.804406 -2.0969,5.914754 -0.0465,0.44325 -0.0486,0.890039 -0.0729,1.335058 -0.0166,2.324744 0.53993,4.644179 1.69451,6.67318 0.23206,0.407826 0.51322,0.785692 0.76983,1.178538 1.39747,1.785495 3.30076,3.038957 5.59381,3.260223 0.45099,0.04352 0.90605,0.01526 1.35908,0.02289 2.03035,-0.145514 3.94106,-0.867422 5.68239,-1.900755 0.75219,-0.446366 1.60546,-1.160089 2.26949,-1.68032 2.08928,-1.821402 3.87813,-3.982414 5.09825,-6.48237 0.23545,-0.482421 0.42553,-0.985696 0.63829,-1.478544 0.76219,-2.212801 1.13202,-4.643996 0.21269,-6.877015 -0.15595,-0.378782 -0.3829,-0.72427 -0.57435,-1.086405 -1.79207,-2.43735 -4.18071,-2.945496 -7.03665,-3.234578 -2.31004,-0.146149 -4.60951,0.176375 -6.84821,0.721768 -0.12777,0.005 -0.13483,-0.175716 -0.007,-0.180703 l 0,0 c 1.00589,-0.494312 1.50379,-0.782877 2.58801,-1.130639 1.50931,-0.484109 3.07852,-0.659161 4.65889,-0.645006 0.5358,0.04975 1.07545,0.06806 1.60739,0.149258 2.53343,0.386739 4.78749,1.51255 6.24689,3.668803 0.2113,0.421767 0.45975,0.826891 0.63392,1.2653 0.98155,2.470686 0.66691,5.134761 -0.19307,7.585065 -0.2199,0.524981 -0.41271,1.062154 -0.65971,1.574942 -1.25975,2.615273 -3.13647,4.900569 -5.27565,6.841218 -0.45089,0.36091 -0.88075,0.749797 -1.35267,1.082731 -2.39463,1.689352 -5.06802,2.911866 -8.02445,3.078457 -0.50691,-0.0239 -1.01769,-0.0048 -1.52074,-0.07171 -2.54964,-0.338922 -4.65072,-1.770135 -6.16927,-3.801326 -0.26861,-0.430178 -0.56267,-0.845479 -0.80584,-1.290534 -1.2028,-2.201378 -1.70265,-4.671833 -1.65349,-7.166978 0.25626,-2.700745 0.84213,-5.340619 2.3547,-7.643403 1.38407,-1.980288 3.01019,-3.722445 5.20141,-4.827118 1.70417,-0.810038 3.49454,-1.417272 5.41151,-1.246831 1.28315,0.153792 2.54063,0.476873 3.65027,1.165331 0.30089,0.20897 0.005,0.634498 -0.29553,0.425528 z" inkscape:connector-curvature="0" />
+      <path style="color:black;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#21261f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.12359553;marker:none;enable-background:accumulate" id="path14234" d="m 264.62036,74.073644 c 0.12342,0.896608 0.53805,1.628343 1.25979,2.164339 0.89227,0.449198 1.84718,0.325407 2.7863,0.126928 0.54931,-0.06512 1.05579,-0.448276 1.60316,-0.505511 0.17602,-0.0184 0.35193,0.03782 0.5279,0.05672 0.0994,-0.01302 0.11779,0.127523 0.0184,0.14054 l 0,0 c -0.16117,0.190806 -0.29214,0.411921 -0.48352,0.572419 -0.47494,0.398316 -1.17596,0.508977 -1.74394,0.690616 -1.15217,0.216935 -2.28951,0.264215 -3.23059,-0.553374 -0.72849,-0.705404 -1.19724,-1.551453 -1.29268,-2.577638 -0.0813,-0.392562 0.47382,-0.507602 0.55517,-0.115041 z" inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
