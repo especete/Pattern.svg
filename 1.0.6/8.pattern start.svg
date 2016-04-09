@@ -12,6 +12,7 @@
   </metadata>
   <defs id="reuseDef">
   
+  <!-- NON-COMMENT COMMENT -->
     <clipPath id="CLIPDRAW" clipPathUnits="userSpaceOnUse">
       <rect id="clipper" y="0" x="200" height="100" width="100" style="display:inline;overflow:visible;visibility:visible;opacity:1;fill:#545045;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:accumulate" />
     </clipPath>
